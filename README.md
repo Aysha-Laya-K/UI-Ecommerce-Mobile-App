@@ -1,6 +1,9 @@
 # ecom
 
 A new Flutter project.
+# About
+![UI- eCommerce Mobile App](https://github.com/user-attachments/assets/6f6608ec-8e37-4961-9228-09a56c25083b)
+
 
 ## Getting Started
 
